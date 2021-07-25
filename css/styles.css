@@ -49,9 +49,11 @@ font-weight: 300;
 }
 
 
-h1 {text-align: left;;}
-p {text-align: left;}
+h1 {text-align: left;font-size: 20px;}
+p {text-align: left;font-size: 14px; margin-right: 10%;}
 div {text-align: left;}
+hr {margin-right: 10%;}
+a {font-weight: bold;}
 
 img {padding-right: 14px; padding-top: 14px; padding-bottom: 14px}
 -webkit-text-size-adjust: none;
