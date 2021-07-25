@@ -57,3 +57,13 @@ a {font-weight: bold;}
 
 img {padding-right: 14px; padding-top: 14px; padding-bottom: 14px}
 -webkit-text-size-adjust: none;
+.social {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 30px;
+}
+
+#images{
+    text-align:center;
+}
