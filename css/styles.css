@@ -3,6 +3,10 @@ margin-left:3%;
 margin-right:1%;
 margin-bottom:1%;
 margin-top:1%;
+/* font-family: "Times New Roman", Times, serif; */
+font-family: freight-sans-pro, sans-serif;
+font-style: normal;
+font-weight: 300;
 }
 /* Style the navbar */
 #navbar {
@@ -50,3 +54,4 @@ p {text-align: left;}
 div {text-align: left;}
 
 img {padding-right: 14px; padding-top: 14px; padding-bottom: 14px}
+-webkit-text-size-adjust: none;
